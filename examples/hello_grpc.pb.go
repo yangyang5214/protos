@@ -4,7 +4,7 @@
 // - protoc             v3.18.0
 // source: examples/hello.proto
 
-package hello_proto
+package hello
 
 import (
 	context "context"
