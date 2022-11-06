@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package protos.examples;
+package protos_examples;
 option go_package = "github.com/yangyang5214/protos/examples/hello.proto";
 
 service Greeter {
